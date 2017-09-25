@@ -22,7 +22,7 @@ import project.demo2.data.model.Item;
 import project.demo2.mainpage.presenter.MainPresenter;
 import project.demo2.mainpage.presenter.Presenter;
 
-import static project.demo2.mainpage.view.util.ToastUtil.showMessage;
+import static project.demo2.util.ToastUtil.showMessage;
 
 
 public class MainActivity extends  AppCompatActivity implements MainView,MainView.UserClickListener {

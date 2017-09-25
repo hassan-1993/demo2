@@ -22,7 +22,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 import project.demo2.R;
 
-import static project.demo2.mainpage.view.util.ToastUtil.showMessage;
+import static project.demo2.util.ToastUtil.showMessage;
 
 
 public class AddActivity extends AppCompatActivity  implements AddView{

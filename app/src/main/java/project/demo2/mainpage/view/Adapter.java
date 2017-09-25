@@ -16,7 +16,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import project.demo2.R;
 import project.demo2.data.model.Item;
-import project.demo2.mainpage.view.util.UnitConverter;
+import project.demo2.util.UnitConverter;
 
 /**
  * Created by hassan on 8/31/2017.
