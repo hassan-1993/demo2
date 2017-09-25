@@ -1,4 +1,4 @@
-package project.demo2.mainpage.view.util;
+package project.demo2.util;
 
 import android.widget.Toast;
 
