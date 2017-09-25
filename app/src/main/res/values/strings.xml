@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">demo2</string>
+    <string name="app_name">Demo</string>
+
+    <string name="error_connection">connection failed</string>
+
+    <string name="error_invalid_parameter">please fill all parameters</string>
+
+    <string name="success_delete_item">item successfully deleted</string>
+    <string name="error_delete_item">error deleting item</string>
+
+    <string name="success_add_item">item successfully added</string>
+    <string name="error_add_item">error adding item</string>
 </resources>
